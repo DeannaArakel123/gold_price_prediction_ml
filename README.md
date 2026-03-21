@@ -63,3 +63,9 @@ Each file includes:
 ---
 
 ## 📁 Project Structure
+📂 gold-price-forecast-ml
+│
+├── gold_forecast.py
+├── gold_price_forecast_inr_usd_30days.csv
+├── gold_forecast_2026-03-21.csv
+├── README.md
